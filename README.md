@@ -1,4 +1,5 @@
 SauceDemo Automation Testing Project
+
 #This project automates 3 critical workflows on [SauceDemo](https://www.saucedemo.com) using Selenium with Java:
 1. Login
 2. Add product to cart
